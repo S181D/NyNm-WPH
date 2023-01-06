@@ -74,9 +74,7 @@
     margin-right: 0 auto;
 } */
 
-.mfopy {
 
-}
 
 .mfopf{
     /* margin: 0px 200px 0px 200px; */
@@ -85,19 +83,15 @@
     gap: 200px;
     /* justify-items: center; */
 }
-    
 
-/* .ftitle {
-    background-image: url('/images/person.png');
-   
-    padding: 100px 150px 40px 150px;
-    display: inline;
-
-} */
+.mfopy {
+    font-weight:bolder;
+}
 
 .mfopy-d{
     font-size: 14px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;
     
 }
 
@@ -111,4 +105,5 @@
 .content{
     margin: 210px 0px 100px 0px;
     font-size: 30px;
+    /* margin-top: 19px; */
 }
