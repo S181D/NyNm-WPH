@@ -7,7 +7,7 @@
 
 .banner {
     /* align-items: center; */
-    background-image: url(/images/banner/banner3.png);
+    background-image: url(../images/banner/banner3.png);
     /* background-color: rgb(189, 176, 176); */
     background-size: 100%;
     background-repeat: no-repeat;
@@ -151,7 +151,7 @@ i {
 }
 
 .blur-pic{
-    background-image: url('/images/watch.png');
+    background-image: url('images/watch.png');
     background-position: center;
 background-repeat: no-repeat;
     height: 500px;
