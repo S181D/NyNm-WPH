@@ -76,34 +76,44 @@
 
 
 
-.mfopf{
+.title{
     /* margin: 0px 200px 0px 200px; */
-    margin: 100px 300px 100px 300px;
+    margin: 170px 300px 170px 300px;
     display: flex;
     gap: 200px;
     /* justify-items: center; */
 }
 
-.mfopy {
+.about {
     font-weight:bolder;
+    font-size: 40px;
 }
 
-.mfopy-d{
+
+.tcontent{
+    margin: 175px 0px 0px 0px;
     font-size: 14px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: 200;
-    
-}
-
-/* .mfopy-d .ftitle{
-    margin: 1000px 16px 10px 0px;
-    padding-bottom: 40px 0px 0px 0px;
-
-
-} */
-
-.content{
-    margin: 210px 0px 100px 0px;
-    font-size: 30px;
     /* margin-top: 19px; */
 }
+.mfopy-d{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;   
+}
+
+
+
+
+.belif i{
+ 
+    /* padding-right: 100px; */
+    /* margin-right: 20px 20; */
+}
+
+i{
+    color: rgb(58, 238, 139);
+    list-style: none;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
